@@ -6,13 +6,18 @@
   },
   {
     "name": "about",
-    "src": "images/mosaic.svg",
+    "src": "images/desk.jpg",
     "alt": "purple and blue abstract background"
   },
   {
+    "name": "home2",
+    "src": "philcoder.jpg",
+    "alt": "logo"
+  },
+  {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
+    "src": "images/desk2.jpg",
     "alt": "desktop with books and laptop"
   }
- 
+
 ]
